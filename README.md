@@ -33,6 +33,22 @@ Original:
 <p>Crafted with <span>cloud</span> excellence by Pravin Mishra</p>
 ```
 
+Fork the original repository to your GitHub account
+
+Clone your fork on your local environment (e.g., EC2)
+
+Add the original repo as upstream for syncing updates
+
+Work on a feature branch for each change
+
+Commit your changes locally
+
+Push the feature branch to your fork (origin)
+
+Create a Pull Request from the feature branch to main on your fork
+
+Merge the PR once reviewed
+
 Add this line (example):
 
 ```html
